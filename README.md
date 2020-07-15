@@ -1,0 +1,2 @@
+# Forager-Flutter-App
+ Gone are the days of scouring the web for nutritional information to fit your macros, dietary restrictions, or meet other nutritional goals. Whether you are meal prepping or diet planning, Forager offers a way to quickly sort through over 100,000 recipes from across the Internet to find the ones that suit your specific needs. Built with Flutter, MongoDB, Python, and Firebase.

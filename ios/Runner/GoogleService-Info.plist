@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>432480389723-kskc7ug71568sbi8sa48f34oqi641s3b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.432480389723-kskc7ug71568sbi8sa48f34oqi641s3b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB0KpRQo9zHelGNXPQ3FCP7czhNYKej2Dk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>432480389723</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.brendanhughes.forageralpha</string>
+	<key>PROJECT_ID</key>
+	<string>forager-450f2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>forager-450f2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:432480389723:ios:d096c828b56d165a46cd7e</string>
+	<key>DATABASE_URL</key>
+	<string>https://forager-450f2.firebaseio.com</string>
+</dict>
+</plist>
